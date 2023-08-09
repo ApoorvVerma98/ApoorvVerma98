@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
 <h3 align="center">"Crafting the User Experience: The Art of Front-End Development"</h3>
 <img align= "right" alt = "Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,8 +7,6 @@
 <p align="left"> <a href="https://twitter.com/oh_so_stoned" target="blank"><img src="https://img.shields.io/twitter/follow/oh_so_stoned?logo=twitter&style=for-the-badge" alt="oh_so_stoned" /></a> </p>
 
 - 🌱 I’m currently learning **React**
-
-## 🌐[Apoorv Verma - Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://apoorvblogger.blogspot.com/](https://apoorvblogger.blogspot.com/)
 
