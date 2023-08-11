@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/oh_so_stoned" target="blank"><img src="https://img.shields.io/twitter/follow/oh_so_stoned?logo=twitter&style=for-the-badge" alt="oh_so_stoned" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 📝 I regularly write articles on [https://apoorvblogger.blogspot.com/](https://apoorvblogger.blogspot.com/)
 
