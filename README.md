@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
 <h3 align="center">"Driven Frontend Developer | React Aficionado | Dedicated to Crafting Engaging Web Experiences"</h3>
-<img align= "right" alt = "Coding" width="400" src= "[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFtaGNpazBscnNnODNtZm94ZjdsNzNldTk3eGN6dG5rYnl5eGphdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)">
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvverma98&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvverma98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oh_so_stoned" target="blank"><img src="https://img.shields.io/twitter/follow/oh_so_stoned?logo=twitter&style=for-the-badge" alt="oh_so_stoned" /></a> </p>
