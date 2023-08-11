@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
 <h3 align="center">"Driven Frontend Developer | React Aficionado | Dedicated to Crafting Engaging Web Experiences"</h3>
 
-<h3 align="center">"🌐[Apoorv Verma - Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)"</h3>
+<h3 align="center">" ** 🌐[Apoorv Verma - Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFtaGNpazBscnNnODNtZm94ZjdsNzNldTk3eGN6dG5rYnl5eGphdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
